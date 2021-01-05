@@ -6,7 +6,7 @@ Find location with ip
 1 - pip3 install requests
 
 2 - python3 GeoHunter.py <target_ip>
-<lr>
+<hr>
 support Windows and Linux
 
 Contact me : tineryum@protonmail.com
