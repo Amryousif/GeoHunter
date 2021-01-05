@@ -7,6 +7,6 @@ Find location with ip
 
 2 - <code>python3 GeoHunter.py <target_ip></code>
 <hr>
-support Windows and Linux
-
+<b>support Windows and Linux</b>
+<br>
 Contact me : tineryum@protonmail.com
