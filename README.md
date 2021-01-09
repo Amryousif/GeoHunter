@@ -9,6 +9,6 @@ Find location with ip
   
 Note : Python must be installed
 <hr>
-<b>support Windows and Linux</b>
+<b>support Windows, Linux and Termux</b>
 <br>
 Contact me : tineryum@protonmail.com
