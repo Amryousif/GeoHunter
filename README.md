@@ -11,4 +11,3 @@ Note : Python must be installed
 <hr>
 <b>support Windows, Linux and Termux</b>
 <br>
-Contact me : tineryum@protonmail.com
