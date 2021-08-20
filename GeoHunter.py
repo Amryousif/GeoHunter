@@ -17,9 +17,9 @@ print("""
 | |_| |  __/ (_) |  _  | |_| | | | | ||  __/ |   
  \____|\___|\___/|_| |_|\__,_|_| |_|\__\___|_|   
     
-    Coded by tineryum
-    Github : tineryum
-    Mail   : tineryum@protonmail.com
+    Coded by Muyrenit
+    Github : Muyrenit
+    Mail   : Muyrenit@gmail.com
                                               
 """)
 
